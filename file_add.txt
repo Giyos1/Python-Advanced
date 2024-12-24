@@ -1,3 +1,4 @@
-main2
-salom2
-ali
+main
+salom
+alik
+valik
