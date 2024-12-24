@@ -1,0 +1,4 @@
+2024-12-14 20:55:46,424 - DEBUG - Library - ishladi!!
+2024-12-14 20:55:46,424 - INFO - Library - loggerni sinash
+2024-12-14 20:55:46,424 - INFO - Library - info, ikkta soni yigindisi uchun logger ishladi
+2024-12-14 20:55:46,424 - INFO - Library - 36
