@@ -2,3 +2,5 @@ main
 salom
 alik
 valik
+asas
+asasas
