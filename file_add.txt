@@ -1,2 +1,2 @@
-main4
-salom4
+main
+salom
